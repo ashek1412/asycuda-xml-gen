@@ -1,0 +1,26 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.FormMain.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.xmlGen.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\bin\Debug\asycuda.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\bin\Debug\asycuda.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\bin\Debug\asycuda.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\asycuda\asycuda\obj\Debug\asycuda.csprojResolveAssemblyReference.cache
+G:\dotnet\asycuda\asycuda\bin\Debug\asycuda.exe.config
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.csproj.ResolveComReference.cache
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.exe
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.pdb
+G:\dotnet\asycuda\asycuda\bin\Debug\asycuda.exe
+G:\dotnet\asycuda\asycuda\bin\Debug\asycuda.pdb
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.FormMain.resources
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.Properties.Resources.resources
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.xmlGen.resources
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.csproj.GenerateResource.Cache
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.csprojResolveAssemblyReference.cache
+G:\dotnet\asycuda\asycuda\bin\Debug\asycuda.exe.manifest
+G:\dotnet\asycuda\asycuda\bin\Debug\asycuda.application
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.exe.manifest
+G:\dotnet\asycuda\asycuda\obj\Debug\asycuda.application
